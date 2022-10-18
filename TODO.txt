@@ -1,0 +1,6 @@
+- Pdf Viewer change to printing package
+- Add printing button
+- Store only label data in shipping project
+- Implement cancel call to backend
+- Create dialog with review and weight change
+- Implement shipping information change for shop order (test with local installation)
